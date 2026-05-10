@@ -1,5 +1,5 @@
 #!/bin/bash
-LIMIT=100000
+LIMIT=1000000
 
 # Initialize an array to track primality. 1 means potentially prime, 0 means composite.
 # We use an associative array or a simple map structure for better handling,
